@@ -1,0 +1,1 @@
+return delta_time/power(10, 6);

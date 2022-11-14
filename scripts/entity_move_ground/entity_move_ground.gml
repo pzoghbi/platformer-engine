@@ -1,0 +1,1 @@
+return place_meeting(x, y+abs(yspeed)+1, o_solid);
